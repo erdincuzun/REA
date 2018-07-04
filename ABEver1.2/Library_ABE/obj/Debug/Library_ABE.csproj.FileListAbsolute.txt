@@ -1,0 +1,16 @@
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\bin\Debug\Library_ABE.dll
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\bin\Debug\BayesClassifier.dll
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\bin\Debug\NZemberek.dll
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\bin\Debug\log4net.dll
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\bin\Debug\Iesi.Collections.Generic.dll
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\bin\Debug\Iesi.Collections.dll
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\bin\Debug\BayesClassifier.pdb
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\bin\Debug\Library_ABE.pdb
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\obj\Debug\ResolveAssemblyReference.cache
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\obj\Debug\Library_ABE.dll
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\obj\Debug\Library_ABE.pdb
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\bin\Debug\HTMLMarkerClass.dll
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\bin\Debug\HtmlAgilityPack.dll
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\bin\Debug\HTMLMarkerClass.pdb
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\bin\Debug\HtmlAgilityPack.pdb
+C:\MySpace\MyProjects\ABE\ABE\Library_ABE\bin\Debug\HtmlAgilityPack.xml
